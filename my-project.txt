@@ -1,6 +1,6 @@
 plan
-- system analysis
 - database desain
 - prepare coding
 
 prepare coding
+-create system login
