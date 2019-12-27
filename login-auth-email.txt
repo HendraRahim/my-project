@@ -1,0 +1,2 @@
+login auth email
+-change auth emial using userid
