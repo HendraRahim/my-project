@@ -1,0 +1,3 @@
+login auth email
+-change auth emial using userid 
+  **move the registration page to admin page
