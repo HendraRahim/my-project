@@ -1,0 +1,5 @@
+plan
+- system analysis
+- database desain
+- prepare coding
+
