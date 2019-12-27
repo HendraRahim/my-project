@@ -2,3 +2,4 @@ login auth email
 -change auth emial using userid 
   **move the registration page to admin page
   **change activation from email address to admin page
+  ** coding testing fitur 1
