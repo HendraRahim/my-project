@@ -3,3 +3,4 @@ plan
 - database desain
 - prepare coding
 
+prepare coding
